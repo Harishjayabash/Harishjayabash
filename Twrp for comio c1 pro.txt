@@ -1,5 +1,15 @@
+To start with keep the original boot-verified.img from the firmware of comio c1 pro the original img file in case of emergency!!!.
 Download the TWRP Recovery img by clicking the recovery.verified.img in the repository.
 please flash the image file in boot partition for touch functionality to be usable since the touch is disabled in recovery partition.
+
+Command to flash the image in boot partition using fastboot is
+
+fastboot flash boot recovery-verified.img
+
+if it failed or you want it normal 
+
+fastboot flash boot boot-verified.img
+
 if any problems arrise please use the original boot-verified.img to get back to normal boot
 You can go to fastboot mode by clicking the reboot to bootloader in twrp options just experiment with the options which you thick is better.
 Tinkering is always better!!.
