@@ -1,0 +1,5 @@
+Download the TWRP Recovery img by clicking the recovery.verified.img in the repository.
+please flash the image file in boot partition for touch functionality to be usable since the touch is disabled in recovery partition.
+if any problems arrise please use the original boot-verified.img to get back to normal boot
+You can go to fastboot mode by clicking the reboot to bootloader in twrp options just experiment with the options which you thick is better.
+Tinkering is always better!!.
