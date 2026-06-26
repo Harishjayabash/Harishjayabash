@@ -11,5 +11,5 @@ if it failed or you want it normal
 fastboot flash boot boot-verified.img
 
 if any problems arrise please use the original boot-verified.img to get back to normal boot
-You can go to fastboot mode by clicking the reboot to bootloader in twrp options just experiment with the options which you thick is better.
+You can go to fastboot mode by clicking the reboot to bootloader in twrp options just experiment with the options which you think is better.
 Tinkering is always better!!.
